@@ -1,0 +1,13 @@
+Vagrantfile
+.vagrant
+*.env
+__pycache__/
+node_modules/
+_plan/
+NOTES.md
+.vagrant/
+.venv
+venv/
+.codiumai.toml
+extensions.txt
+
